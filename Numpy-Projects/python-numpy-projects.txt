@@ -1,1 +1,5 @@
-lets begin!
+Expected Numpy Projects
+1. Matrix Operations and Linear Algebra Solver
+2. Image Processing with NumPy
+3. Stock Price Predictor
+4. Numerical Differentiation and Integration
