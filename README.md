@@ -1,1 +1,1 @@
-# Python Numpy Practises and PRojects Repository
+# Python Numpy Practises and Projects Repository
