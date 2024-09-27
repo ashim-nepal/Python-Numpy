@@ -1,3 +1,4 @@
 # Python Numpy Practises and Projects Repository
 
-Numpy basics that i have done and some numpy projects are here in this repo!
+Numpy basics that I have done and some numpy projects are here in this repo!
+Projects are yet to be done, working on it :)
