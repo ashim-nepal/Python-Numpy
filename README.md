@@ -2,3 +2,5 @@
 
 - Numpy basics that I have done and some numpy projects are here in this repo!
 - Projects are yet to be done, working on it...
+- 
+- 
